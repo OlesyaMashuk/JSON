@@ -5,7 +5,8 @@
  3. На против каждого действия - напишите команду в GitBash
 
  4. Создать внешний репозиторий c названием JSON.
---> на github через кнопку new (скопировать ссылку репозитория)
+![Screenshot_1](https://user-images.githubusercontent.com/91422609/169891997-ebcc528d-2add-4c40-8e8d-e9ee445d11f0.png)
+
 
  5. Клонировать репозиторий JSON на локальный компьютер.
 --> git clone https://github.com/OlesyaMashuk/JSON.git
