@@ -1,7 +1,7 @@
 {
-	"favorite movie" : "Terminator",
-	"favorite TV series" : "12 moments of spring",
-	"favorite food" : "Vegetarian",
-	"favorite time_year" : "Summer",
+	"fav_movie" : "Terminator",
+	"fav_TVseries" : "12 moments of spring",
+	"fav_food" : "Vegetarian",
+	"fav_season" : "Summer",
 	"country" : "Iceland"
 }
