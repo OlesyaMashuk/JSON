@@ -4,24 +4,12 @@
  2. Сценарий перенесите в этот файл.
  3. На против каждого действия - напишите команду в GitBash
 
-##using MarkdownSharp;
-using MarkdownSharp.Extensions.Mal;
-
-Markdown mark = new Markdown();
-
-// Short link for MAL - 
-// http://myanimelist.net/people/413/Kitamura_Eri => mal://Kitamura_Eri
-mark.AddExtension(new Articles()); 
-mark.AddExtension(new Profile());
-
-mark.Transform(text);##
-
  4. Создать внешний репозиторий c названием JSON.
 ![Screenshot_1](https://user-images.githubusercontent.com/91422609/169891997-ebcc528d-2add-4c40-8e8d-e9ee445d11f0.png)
 
 
  5. Клонировать репозиторий JSON на локальный компьютер.
- --> git clone https://github.com/OlesyaMashuk/JSON.git
+```git clone https://github.com/OlesyaMashuk/JSON.git```
 
  6. Внутри локального JSON создать файл “new.json”.
  --> cd JSON (зайти в локальный репозиторий)
