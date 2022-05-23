@@ -18,7 +18,8 @@
 touch new.json```
 
  7. Добавить файл под гит.
---> git add new.json
+ 
+```git add new.json```
 
  8. Закоммитить файл.
 --> git commit git commit -m "Добавление файла на внеш.репозиторий"
