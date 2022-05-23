@@ -9,11 +9,13 @@
 
 
  5. Клонировать репозиторий JSON на локальный компьютер.
+ 
 ```git clone https://github.com/OlesyaMashuk/JSON.git```
 
  6. Внутри локального JSON создать файл “new.json”.
- --> cd JSON (зайти в локальный репозиторий)
---> touch new.json
+ 
+ ```cd JSON (зайти в локальный репозиторий)
+touch new.json```
 
  7. Добавить файл под гит.
 --> git add new.json
