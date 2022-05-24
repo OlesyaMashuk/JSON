@@ -10,9 +10,7 @@
 
  5. Клонировать репозиторий JSON на локальный компьютер.
  
-```
-git clone https://github.com/OlesyaMashuk/JSON.git
-```
+```git clone https://github.com/OlesyaMashuk/JSON.git```
 
  6. Внутри локального JSON создать файл “new.json”.
  
@@ -34,7 +32,7 @@ git clone https://github.com/OlesyaMashuk/JSON.git
 ```git push```
 
  10. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.
- 
+```
 --> vim new.json
 --> i 
 --> {
@@ -44,7 +42,7 @@ git clone https://github.com/OlesyaMashuk/JSON.git
         "pets" : 1,
         "salary" : 1000
 }
---> esc :wq enter
+--> esc :wq enter```
 
  11. Отправить изменения на внешний репозиторий.
  
