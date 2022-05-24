@@ -52,6 +52,7 @@ git commit -m "Редактирование файла"
 git push
 ```
  12. Создать файл preferences.json
+ 
 ``` vim preferences.json ```
 
  13. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
@@ -91,7 +92,7 @@ git commit -a "Добавление двух файлов одновр"
 git push
 ```
  16. На веб интерфейсе создать файл bug_report.json.
---> Add file > Create new file
+
 
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 --> Commit changes
