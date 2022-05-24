@@ -6,6 +6,7 @@
 
  4. Создать внешний репозиторий c названием JSON.
  
+ 
 ![Screenshot_1](https://user-images.githubusercontent.com/91422609/169891997-ebcc528d-2add-4c40-8e8d-e9ee445d11f0.png)
 
 
@@ -94,23 +95,29 @@ git push
 ```
  16. На веб интерфейсе создать файл bug_report.json.
  
+ 
  ![Screenshot_2](https://user-images.githubusercontent.com/91422609/169943721-7a61c4bc-bf57-497a-8463-64d2fd921efe.png)
  
  ![Screenshot_3](https://user-images.githubusercontent.com/91422609/169943751-dd53905b-0436-4abf-a1a5-60625e1c81dc.png)
+ 
 
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+ 
 
 ![Screenshot_4](https://user-images.githubusercontent.com/91422609/169943780-321235a4-b91a-4963-9390-49bc7e93c0c2.png)
 
+
  18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+ 
 
 ![Screenshot_5](https://user-images.githubusercontent.com/91422609/169943858-02a183dd-2eea-4a25-82f6-5c88ce2960c7.png)
 
 
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
-```
+ 
+
 ![Screenshot_6](https://user-images.githubusercontent.com/91422609/169945271-40c35806-67d4-4aa7-8ad2-5b2edad7bee4.png
-```
+
 
  20. Синхронизировать внешний и локальный репозиторий JSON
 
