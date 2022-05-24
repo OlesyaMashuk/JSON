@@ -116,7 +116,7 @@ git push
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  
 
-![Screenshot_6](https://user-images.githubusercontent.com/91422609/169945271-40c35806-67d4-4aa7-8ad2-5b2edad7bee4.png
+![Screenshot_6](https://user-images.githubusercontent.com/91422609/169945271-40c35806-67d4-4aa7-8ad2-5b2edad7bee4.png)
 
 
  20. Синхронизировать внешний и локальный репозиторий JSON
