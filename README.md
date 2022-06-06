@@ -63,7 +63,7 @@ i
 {
         "favorite movie" : "Terminator",
         "favorite TV series" : "12 moments of spring",
-        "favorite food" : "Vegetarian",
+        "favorite food" : "Salad",
         "favorite time_year" : "Summer",
         "country" : "Iceland"
 }
